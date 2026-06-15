@@ -16,3 +16,5 @@ This repository contains embedded automation scripts. Each script controls a Ras
 * **Programming Language:** Python 3
 * **Hardware Interface Library:** `RPi.GPIO` (Raspberry Pi Native GPIO Pins Controller)
 * **Sensor Handling Framework:** `Adafruit_DHT`
+
+.
